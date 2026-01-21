@@ -47,7 +47,7 @@
 
 - Designing and implementing RESTful APIs
 - Backend services using **Node.js**, **ASP.NET Core**, and **Gin (Go)**
-- Relational database design and query optimization (PostgreSQL, MySQL)
+- Relational database design (PostgreSQL, MySQL)
 - Full-stack development with **React** and TypeScript
 - Version control and collaboration using **Git**, **GitHub**, and **SVN**
 - Containerization and local environments with **Docker**
